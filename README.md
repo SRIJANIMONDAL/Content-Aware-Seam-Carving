@@ -130,16 +130,7 @@ Run the notebook cells sequentially.
 > evaluation images. Those data files are intentionally not included in this
 > repository unless they are explicitly redistributable.
 
-## Authors
 
-- Sayantan Chakraborty
-- Srijani Mondal
-- Netali Singh
-- Vishakh Anant
-- Saurav Kumar
-
-**M.Tech in Computer Science and Engineering**  
-Indian Institute of Technology Goa, India
 
 ## References
 
