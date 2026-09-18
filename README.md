@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Content-Aware Seam Carving: Sobel vs Scharr
 
 Implementation and comparative evaluation of **energy-based Seam Carving**
