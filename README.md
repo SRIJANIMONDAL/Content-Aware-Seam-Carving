@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Content-Aware Seam Carving: Sobel vs Scharr
 
 Implementation and comparative evaluation of **energy-based Seam Carving**
@@ -153,3 +154,6 @@ Indian Institute of Technology Goa, India
 
 If you use this repository in academic work, please cite the associated
 project/report and acknowledge the authors listed above.
+=======
+# Content-Aware-Seam-Carving
+>>>>>>> 13b2b074c47031489b29f262875bff96783ee57f
